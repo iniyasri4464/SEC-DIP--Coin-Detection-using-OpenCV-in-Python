@@ -1,7 +1,7 @@
 # Coin-Detection-using-OpenCV-in-Python
 
-## Name : VINCY JOVITHA V
-## Reg no : 212223230242
+## Name : INIYASRI S
+## Reg no : 212223230081
 
 # Aim:
 To develop an AI-based image processing system that can automatically detect and count coins in an image using Python and OpenCV, while visualizing all the intermediate processing steps such as grayscale conversion, blurring, edge detection, and contour detection.
